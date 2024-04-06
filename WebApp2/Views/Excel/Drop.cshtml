@@ -1,0 +1,41 @@
+﻿@model WebApp2.Models.DropModel
+@{
+    ViewData["Title"] = "Drop";
+}
+
+<h1>Dropnnn</h1>
+<div class="container">
+    <div class="row">
+        <form asp-action="Drop">
+
+            <div class="form-group">
+                <label asp-for="SelectedCustomer" class="control-label"></label>
+                <select class='custom-select' placeholder="Select Your Customer" data-search="true" asp-for="SelectedCustomer" id="Customerlist" asp-items="@Model.Customers">
+                    <option value="-1">Select Customer</option>
+                </select>
+                <span asp-validation-for="SelectedCustomer" class="text-danger"></span>
+
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts{
+   
+    <script src="~/DropDown/src/jquery-customselect.js"></script>
+    <link href="~/DropDown/src/jquery-customselect.css" rel="stylesheet" />
+    
+
+    <script>
+        $(document).ready(function () {
+            $('#Customerlist').customselect({
+                search: true,
+                hoveropen: false
+            });
+        });
+    </script>
+
+}
+
+@*//https://www.jqueryscript.net/form/jQuery-Plugin-For-Custom-Searchable-Select-List-Customselect.html*@
+

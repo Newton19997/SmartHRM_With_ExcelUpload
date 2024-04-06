@@ -1,0 +1,46 @@
+﻿https://stackoverflow.com/questions/40447338/adding-images-to-asp-net-core
+
+https://www.youtube.com/watch?v=7nFErqpxtbg
+
+https://www.youtube.com/watch?v=GZkoeNNjpmA&t=194s
+
+//model create
+https://www.youtube.com/watch?v=bqyZiwXOMH0
+
+//excel upload 
+https://www.youtube.com/watch?v=wwyAOjOLQh0&t=183s
+
+   //static OleDbConnection conn;
+
+Install-Package System.Data.OleDb
+
+https://stackoverflow.com/questions/53102673/c-sharp-cannot-find-namespace-oledbconnection-even-though-using-system-data-oled
+ install System.Data.OleDb (Manager NuGet )
+https://www.youtube.com/watch?v=khWzWYlUEt4
+ other way
+https://www.youtube.com/watch?v=5KNIpKcTIVs
+
+How to Export Database Data to Excel file in Asp.Net Core Export Excel File
+https://www.youtube.com/watch?v=VHUofTmeqrs
+
+
+rst9454
+3.19K subscribers
+
+
+// button add
+https://www.youtube.com/watch?v=3YyZLMLYOVE
+
+//excel download
+https://www.youtube.com/watch?v=VHUofTmeqrs
+
+// for cryatal report
+https://www.youtube.com/watch?v=AglE-xgmbY8
+
+
+//text celect
+https://www.youtube.com/watch?v=DKNrXf2A4-U
+
+
+// transistion scope
+https://www.youtube.com/watch?v=VBFlI0-mbh4

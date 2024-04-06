@@ -1,0 +1,277 @@
+﻿@model IEnumerable<Modelss.ViewModels.SpEmployeeInfo>
+@{
+    ViewData["Title"] = "Report";
+}
+
+<h1>Report</h1>
+
+<div class="row">
+    <div class="container">
+        <div class="form-group col-md-4">
+            <label for="UnitPrice" class="control-label">Employee ID</label>
+            @*<input name="number" id="EmployeeID" class="form-control" onkeyup="if (/\D/g.test(this.value)) this.value = this.value.replace(/\D/g,'')" />*@
+            <input type="text" name="number" id="EmployeeID"  class="form-control" />
+
+        </div>
+        <div class="form-group">
+            <button type="button" class="btn btn-primary" onclick="ShowSalarywithBonus()"> Show Salary with Bonus</button>
+            <button type="button" class="btn btn-info" onclick="HighlightSalary()"> Highlight Salary</button>
+            <button type="button" class="btn btn-info" onclick="HighlightName()"> Highlight Name</button>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <table class="table" id="highlightColumn">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.ID)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Position)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Salarywithbonus)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.JoinDate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.IsBonusAdded)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Position)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Salarywithbonus)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.JoinDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IsBonusAdded)
+                </td>
+
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>
+@*create A popup Model With Add a New product*@
+<div class="modal fade" id="MyModel">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            @*<div class="modal-header">
+                    <a href="#" class="close" data-dismiss="modal">&times;</a><br /><br /><br />
+                    <h4 id="ModalTitle"></h4>
+                </div>*@
+            <div class="modal-body">
+                <form id="form">
+                    <fieldset id="Submitform">
+
+                        @*<div class="form-group">
+                                <a href="#" class="btn btn-block btn-danger" id="Cancel">Cancel</a>
+                            </div>*@
+                        <label for="UnitPrice" class="control-label">Please provide valid employee id.</label>
+                    </fieldset>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        @*<button type="button" class="btn btn-primary">Save changes</button>*@
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@*create A popup Model With Add a New product*@
+<div class="modal fade" id="MyModelv">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <label for="sd" class="control-label">Employee Show</label>
+
+            <div class="modal-body">
+                <form id="form">
+                    <fieldset id="Submitform">
+                        @*@Html.HiddenFor(m => m.Id, new { @id = "OrdetailsID" })*@
+                        <div class="form-group">
+                            <label for="Name" class="control-label">Name</label>
+                            <input type="text" name="Name" id="Name" class="form-control" />
+                        </div>
+                        <div class="form-group">
+                            <label for="Position" class="control-label">Position</label>
+                            <input type="text" name="Position" id="Position" class="form-control" />
+                        </div>
+                        <div class="form-group">
+                            <label for="Salarywithbonus" class="control-label">Salarywithbonus</label>
+                            <input type="text" name="Salarywithbonus" id="Salarywithbonus" class="form-control" />
+                        </div>
+                        <div class="form-group">
+                            <label for="JoinDate" class="control-label">JoinDate</label>
+                            <input type="text" name="JoinDate" id="JoinDate" class="form-control" />
+                        </div>
+                        <div class="form-group">
+                            <label for="IsBonusAdded" class="control-label">IsBonusAdded</label>
+                            <input type="text" name="IsBonusAdded" id="IsBonusAdded" class="form-control" />
+                        </div>
+
+                    </fieldset>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script>
+       
+        //$(document).ready(function () {
+        //    var ids = $('#EmployeeID').val();           
+        //    $("#EmployeeID").focus(function () {
+        //        $(this).css("background-color", "yellow");
+        //    });          
+
+        //});
+
+
+        $(document).ready(function () {
+            $("#EmployeeID").keyup(function () {
+                var command = $(this).val();
+                console.log(command);
+               // alert(command);
+                if (command) {
+                    var ch = isNumeric(command);
+                    // alert(ch)
+                    console.log(ch, typeof ch);
+                    if (ch==false){
+                        $("#EmployeeID").val = '';
+                        $("#form")[0].reset();
+                        $("#MyModel").modal();
+                    }
+                }
+           
+            });
+        });
+
+        function isNumeric(value) {
+            return /^-?\d+$/.test(value);
+        }
+      
+        function Vcheck(df) {
+
+            var ch = isNumber(command);
+            alert(ch);
+            if (ch == true) {
+            } else {
+                $("#EmployeeID").val = ' ';
+                $("#form")[0].reset();
+                $("#MyModel").modal();
+            }
+        }
+
+        function EditOrderDetails(ordetailsID) {
+          //  alert('ordetailsID', ordetailsID);           
+            $("#MyModelv").modal();           
+            $.ajax(
+                {
+                    url: "/api/Employee/EmployeeDetails?Id=" + ordetailsID,
+                    success: function (data) {
+                        var oDs = data;
+                        console.log(oDs);
+                       // $("#OrdetailsID").val(oDs[0].id);
+                        $("#Name").val(oDs[0].name);
+                        $("#Position").val(oDs[0].position);
+                        $("#Salarywithbonus").val(oDs[0].salarywithbonus);
+                        $("#JoinDate").val(oDs[0].joinDate);
+                        $("#IsBonusAdded").val(oDs[0].isBonusAdded);
+                    },
+                    error: function (response) {
+                        alert(response);
+                    }
+                });
+        }
+        function ShowSalarywithBonus() {
+            var ids = $('#EmployeeID').val();
+            console.log('newton', ids);
+
+            if (ids == '') {
+                $("#form")[0].reset();                
+                $("#MyModel").modal();
+            }
+            if (ids) {
+                var ch = isNumeric(ids);
+                // alert(ch)
+                console.log(ch, typeof ch);
+                if (ch == false) {
+                    $("#EmployeeID").val = '';
+                    $("#form")[0].reset();
+                    $("#MyModel").modal();
+                }
+                else {
+                    this.EditOrderDetails(ids)
+                }
+            }
+
+           
+
+        }
+
+        function highlightColumn(columnIndex) {
+            var table = document.getElementById("highlightColumn");
+            var rows = table.getElementsByTagName("tr");
+
+            for (var i = 0; i < rows.length; i++) {
+                var cells = rows[i].getElementsByTagName("td");
+                if (cells.length > columnIndex) {
+                    cells[columnIndex].style.backgroundColor = "#008000";
+                }
+            }
+        }
+
+        function HighlightSalary() {
+            this.highlightColumn(3); // Replace 2 with the index of the column you want to highlight
+            // });
+        }
+
+
+        function highlightColumn1(Index) {
+            var table1 = document.getElementById("highlightColumn");
+            var rows1 = table1.getElementsByTagName("tr");
+
+            for (var i = 0; i < rows1.length; i++) {
+                var cells1 = rows1[i].getElementsByTagName("td");
+                if (cells1.length > Index) {
+                    cells1[Index].style.backgroundColor = "#0000FF";
+                }
+            }
+        }
+
+        function HighlightName() {          
+            this.highlightColumn1(1); // Replace 2 with the index of the column you want to highlight
+            // });
+        }
+
+    </script>
+}
+

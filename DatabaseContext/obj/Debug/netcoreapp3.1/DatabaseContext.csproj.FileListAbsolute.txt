@@ -1,0 +1,64 @@
+D:\Users\newton\Desktop\Exta\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseContext.deps.json
+D:\Users\newton\Desktop\Exta\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseContext.runtimeconfig.json
+D:\Users\newton\Desktop\Exta\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseContext.runtimeconfig.dev.json
+D:\Users\newton\Desktop\Exta\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseContext.dll
+D:\Users\newton\Desktop\Exta\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseContext.pdb
+D:\Users\newton\Desktop\Exta\DatabaseContext\bin\Debug\netcoreapp3.1\Modelss.dll
+D:\Users\newton\Desktop\Exta\DatabaseContext\bin\Debug\netcoreapp3.1\Modelss.pdb
+D:\Users\newton\Desktop\Exta\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.csproj.AssemblyReference.cache
+D:\Users\newton\Desktop\Exta\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\newton\Desktop\Exta\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.AssemblyInfoInputs.cache
+D:\Users\newton\Desktop\Exta\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.AssemblyInfo.cs
+D:\Users\newton\Desktop\Exta\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.csproj.CoreCompileInputs.cache
+D:\Users\newton\Desktop\Exta\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.csproj.CopyComplete
+D:\Users\newton\Desktop\Exta\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.dll
+D:\Users\newton\Desktop\Exta\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.pdb
+D:\Users\newton\Desktop\Exta\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.genruntimeconfig.cache
+D:\Users\newton\Desktop\Exta\Newton_Royex\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseContext.deps.json
+D:\Users\newton\Desktop\Exta\Newton_Royex\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseContext.runtimeconfig.json
+D:\Users\newton\Desktop\Exta\Newton_Royex\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseContext.runtimeconfig.dev.json
+D:\Users\newton\Desktop\Exta\Newton_Royex\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseContext.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseContext.pdb
+D:\Users\newton\Desktop\Exta\Newton_Royex\DatabaseContext\bin\Debug\netcoreapp3.1\Modelss.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\DatabaseContext\bin\Debug\netcoreapp3.1\Modelss.pdb
+D:\Users\newton\Desktop\Exta\Newton_Royex\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.csproj.AssemblyReference.cache
+D:\Users\newton\Desktop\Exta\Newton_Royex\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\newton\Desktop\Exta\Newton_Royex\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.AssemblyInfoInputs.cache
+D:\Users\newton\Desktop\Exta\Newton_Royex\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.AssemblyInfo.cs
+D:\Users\newton\Desktop\Exta\Newton_Royex\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.csproj.CoreCompileInputs.cache
+D:\Users\newton\Desktop\Exta\Newton_Royex\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.csproj.CopyComplete
+D:\Users\newton\Desktop\Exta\Newton_Royex\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.pdb
+D:\Users\newton\Desktop\Exta\Newton_Royex\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.genruntimeconfig.cache
+D:\Newton\Newton_Royex\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseContext.deps.json
+D:\Newton\Newton_Royex\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseContext.runtimeconfig.json
+D:\Newton\Newton_Royex\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseContext.runtimeconfig.dev.json
+D:\Newton\Newton_Royex\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseContext.dll
+D:\Newton\Newton_Royex\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseContext.pdb
+D:\Newton\Newton_Royex\DatabaseContext\bin\Debug\netcoreapp3.1\Modelss.dll
+D:\Newton\Newton_Royex\DatabaseContext\bin\Debug\netcoreapp3.1\Modelss.pdb
+D:\Newton\Newton_Royex\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.csproj.AssemblyReference.cache
+D:\Newton\Newton_Royex\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\Newton\Newton_Royex\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.AssemblyInfoInputs.cache
+D:\Newton\Newton_Royex\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.AssemblyInfo.cs
+D:\Newton\Newton_Royex\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.csproj.CoreCompileInputs.cache
+D:\Newton\Newton_Royex\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.csproj.CopyComplete
+D:\Newton\Newton_Royex\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.dll
+D:\Newton\Newton_Royex\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.pdb
+D:\Newton\Newton_Royex\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.genruntimeconfig.cache
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseContext.deps.json
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseContext.runtimeconfig.json
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseContext.runtimeconfig.dev.json
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseContext.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseContext.pdb
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\DatabaseContext\bin\Debug\netcoreapp3.1\Modelss.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\DatabaseContext\bin\Debug\netcoreapp3.1\Modelss.pdb
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.csproj.AssemblyReference.cache
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.AssemblyInfoInputs.cache
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.AssemblyInfo.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.csproj.CoreCompileInputs.cache
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.csproj.CopyComplete
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.pdb
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.genruntimeconfig.cache

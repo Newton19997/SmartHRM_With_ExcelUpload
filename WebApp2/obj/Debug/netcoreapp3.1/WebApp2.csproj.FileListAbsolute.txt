@@ -1,0 +1,855 @@
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.exe
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.deps.json
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.runtimeconfig.json
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.runtimeconfig.dev.json
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.pdb
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.Views.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.Views.pdb
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\BLL_Manager.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\DatabaseContext.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Modelss.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Repositoris.dll
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\BLL_Manager.pdb
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Modelss.pdb
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\Repositoris.pdb
+D:\Users\newton\Desktop\Exta\WebApp2\bin\Debug\netcoreapp3.1\DatabaseContext.pdb
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.csproj.AssemblyReference.cache
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.AssemblyInfoInputs.cache
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.AssemblyInfo.cs
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.csproj.CoreCompileInputs.cache
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.RazorAssemblyInfo.cache
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.RazorAssemblyInfo.cs
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\staticwebassets\WebApp2.StaticWebAssets.Manifest.cache
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\staticwebassets\WebApp2.StaticWebAssets.xml
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApp2.styles.css
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.TagHelpers.input.cache
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.TagHelpers.output.cache
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.RazorCoreGenerate.cache
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Create.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Delete.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Details.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Edit.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Delete.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Details.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\ShowResult\Index.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.RazorTargetAssemblyInfo.cache
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.RazorTargetAssemblyInfo.cs
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.Views.pdb
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.csproj.CopyComplete
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.dll
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.pdb
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.genruntimeconfig.cache
+D:\Users\newton\Desktop\Exta\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Report.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.exe
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.deps.json
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.runtimeconfig.json
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.runtimeconfig.dev.json
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.pdb
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.Views.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.Views.pdb
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\BLL_Manager.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\DatabaseContext.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Modelss.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Repositoris.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\BLL_Manager.pdb
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Modelss.pdb
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\Repositoris.pdb
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\bin\Debug\netcoreapp3.1\DatabaseContext.pdb
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.csproj.AssemblyReference.cache
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.AssemblyInfoInputs.cache
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.AssemblyInfo.cs
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.csproj.CoreCompileInputs.cache
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.RazorAssemblyInfo.cache
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.RazorAssemblyInfo.cs
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\staticwebassets\WebApp2.StaticWebAssets.Manifest.cache
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\staticwebassets\WebApp2.StaticWebAssets.xml
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApp2.styles.css
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.TagHelpers.input.cache
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.TagHelpers.output.cache
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.RazorCoreGenerate.cache
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Create.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Delete.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Details.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Edit.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Delete.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Details.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Report.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\ShowResult\Index.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.RazorTargetAssemblyInfo.cache
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.RazorTargetAssemblyInfo.cs
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.Views.pdb
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.csproj.CopyComplete
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.dll
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.pdb
+D:\Users\newton\Desktop\Exta\New folder (2)\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.genruntimeconfig.cache
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.csproj.AssemblyReference.cache
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.AssemblyInfoInputs.cache
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.AssemblyInfo.cs
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.csproj.CoreCompileInputs.cache
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.RazorAssemblyInfo.cache
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.RazorAssemblyInfo.cs
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.exe
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.deps.json
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.runtimeconfig.json
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.runtimeconfig.dev.json
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.pdb
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.Views.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.Views.pdb
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\BLL_Manager.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\DatabaseContext.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Modelss.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Repositoris.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\BLL_Manager.pdb
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Modelss.pdb
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Repositoris.pdb
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\DatabaseContext.pdb
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\staticwebassets\WebApp2.StaticWebAssets.Manifest.cache
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\staticwebassets\WebApp2.StaticWebAssets.xml
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApp2.styles.css
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.TagHelpers.input.cache
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.TagHelpers.output.cache
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.RazorCoreGenerate.cache
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Create.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Delete.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Details.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Edit.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Delete.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Details.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Report.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\ShowResult\Index.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.RazorTargetAssemblyInfo.cache
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.RazorTargetAssemblyInfo.cs
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.Views.pdb
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.csproj.CopyComplete
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.pdb
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.genruntimeconfig.cache
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Excel\ImportExcelFile.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Excel\Index.cshtml.g.cs
+D:\Users\newton\Desktop\Exta\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Excel\JQIndex.cshtml.g.cs
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.exe
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.deps.json
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.runtimeconfig.json
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.runtimeconfig.dev.json
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.pdb
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.Views.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.Views.pdb
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\BLL_Manager.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\DatabaseContext.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Modelss.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Repositoris.dll
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\BLL_Manager.pdb
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Modelss.pdb
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Repositoris.pdb
+D:\Newton\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\DatabaseContext.pdb
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.csproj.AssemblyReference.cache
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.AssemblyInfoInputs.cache
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.AssemblyInfo.cs
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.csproj.CoreCompileInputs.cache
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.MvcApplicationPartsAssemblyInfo.cache
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.RazorAssemblyInfo.cache
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.RazorAssemblyInfo.cs
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\staticwebassets\WebApp2.StaticWebAssets.Manifest.cache
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\staticwebassets\WebApp2.StaticWebAssets.xml
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApp2.styles.css
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.TagHelpers.input.cache
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.TagHelpers.output.cache
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.RazorCoreGenerate.cache
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Create.cshtml.g.cs
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Delete.cshtml.g.cs
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Details.cshtml.g.cs
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Edit.cshtml.g.cs
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Delete.cshtml.g.cs
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Details.cshtml.g.cs
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Report.cshtml.g.cs
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Excel\ImportExcelFile.cshtml.g.cs
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Excel\Index.cshtml.g.cs
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Excel\JQIndex.cshtml.g.cs
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\ShowResult\Index.cshtml.g.cs
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.RazorTargetAssemblyInfo.cache
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.RazorTargetAssemblyInfo.cs
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.Views.pdb
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.csproj.CopyComplete
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.dll
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.pdb
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.genruntimeconfig.cache
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Excel\Drop.cshtml.g.cs
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Sample\Index.cshtml.g.cs
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Sample\OrderCreate.cshtml.g.cs
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\POrderHeader\Index.cshtml.g.cs
+D:\Newton\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\POrderHeader\Create.cshtml.g.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.StaticWebAssets.xml
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.exe
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.deps.json
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.runtimeconfig.json
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.runtimeconfig.dev.json
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.pdb
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.Views.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\WebApp2.Views.pdb
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\BLL_Manager.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\DatabaseContext.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Modelss.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Repositoris.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\BLL_Manager.pdb
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Modelss.pdb
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\Repositoris.pdb
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\bin\Debug\netcoreapp3.1\DatabaseContext.pdb
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.csproj.AssemblyReference.cache
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.AssemblyInfoInputs.cache
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.AssemblyInfo.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.csproj.CoreCompileInputs.cache
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.MvcApplicationPartsAssemblyInfo.cache
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.RazorAssemblyInfo.cache
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.RazorAssemblyInfo.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.TagHelpers.input.cache
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.TagHelpers.output.cache
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.RazorCoreGenerate.cache
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Create.cshtml.g.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Delete.cshtml.g.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Details.cshtml.g.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Edit.cshtml.g.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Delete.cshtml.g.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Details.cshtml.g.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Report.cshtml.g.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Excel\Drop.cshtml.g.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Excel\ImportExcelFile.cshtml.g.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Excel\Index.cshtml.g.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Excel\JQIndex.cshtml.g.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\POrderHeader\Create.cshtml.g.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\POrderHeader\Index.cshtml.g.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Sample\Index.cshtml.g.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Sample\OrderCreate.cshtml.g.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\ShowResult\Index.cshtml.g.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.RazorTargetAssemblyInfo.cache
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.RazorTargetAssemblyInfo.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.Views.pdb
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\staticwebassets\WebApp2.StaticWebAssets.Manifest.cache
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\staticwebassets\WebApp2.StaticWebAssets.Pack.cache
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApp2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApp2.props
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApp2.props
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApp2.props
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.csproj.CopyComplete
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.pdb
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\WebApp2\obj\Debug\netcoreapp3.1\WebApp2.genruntimeconfig.cache

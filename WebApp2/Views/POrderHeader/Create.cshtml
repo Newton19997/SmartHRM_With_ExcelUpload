@@ -1,0 +1,300 @@
+﻿@model Modelss.PoHeader
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>PoHeader</h4>
+
+<div class="card">
+    <div class="card-header bg-success text-uppercase text-white text-center" style="height:40px;">
+        <h6>Order Maste-Create</h6>
+    </div>
+    <hr />
+
+
+    <div class="row">
+        <div class="col-md-12">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="PoNumber" class="control-label"></label>
+                    <input asp-for="PoNumber" class="form-control" />
+                    <span asp-validation-for="PoNumber" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="PoDate" class="control-label"></label>
+                    <input asp-for="PoDate" class="form-control" />
+                    <span asp-validation-for="PoDate" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="EmployeeId" class="control-label"></label>
+                    <select asp-for="EmployeeId" class="form-control" asp-items="ViewBag.EmployeeId"></select>
+                </div>
+
+                <div>
+                    <div class="col-12">
+                        <table id="ExpTable" class="table table-borderless">
+                            <thead>
+                                <tr>
+                                    <th>Customer</th>
+
+                                    <th>Address</th>
+
+                                    <th>Price</th>
+                                    @*<th style="width:60px;">
+                                            <button id='btnAddDetailRow' type="button" class="btn btn-sm btn-secondary visible" onclick="AddItem(this)">
+                                                Add
+                                            </button>
+                                        </th>*@
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @for (int i = 0; i < Model.PoDetails.Count; i++)
+                                {
+                                    <tr>
+                                        <td>
+                                                <select asp-for="@Model.PoDetails[i].CustomerId" class="form-control" asp-items="ViewBag.CustomerList"></select>
+
+                                            </td>
+                                        <td>
+                                            @Html.EditorFor(m => m.PoDetails[i].Address, new { htmlAttributes = new { @class = "form-control" } })
+                                            @*<input asp-for="@Model.PoDetails[i].Address" class="form-control" />
+                                                <span asp-validation-for="@Model.PoDetails[i].Address" class="text-danger"></span>*@
+
+                                        </td>
+                                        <td>
+                                            @Html.EditorFor(m => m.PoDetails[i].price, new { htmlAttributes = new { @class = "form-control" } })
+                                            @*<input asp-for="@Model.PoDetails[i].price" class="form-control" />
+                                                <span asp-validation-for="@Model.PoDetails[i].price" class="text-danger"></span>*@
+                                        </td>
+                                        <td>
+                                            <button id='dummybtn-@i' type="button" class="btn btn-sm btn-danger invisible">Dummy</button>
+                                            <button id='addbtn-@i' type="button" class="btn btn-sm btn-secondary visible" onclick="AddItem(this)" style="left:90%;position:absolute">Add</button>
+                                            <button id='btnremove-@i' type="button" class="btn btn-sm btn-danger invisible" onclick="DeleteItem(this)" style="left:90%;position:absolute"> Delete</button>
+
+                                        </td>
+
+                                    </tr>
+
+                                }
+                            </tbody>
+                        </table>
+
+                    </div>
+                    <input type="hidden" id="hdnLastIndex" value="0" />
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+</div>
+@*<div class="container">
+        <form asp-action="Create">
+            <div class="row">
+                <div style="width: 100%;">
+                    <div style="width: 100%;">
+                        <div style="width: 45%; float: left">
+                            <div class="row">
+                                <div class="col-md-6">
+
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="PoNumber" class="control-label"></label>
+        <input asp-for="PoNumber" class="form-control" />
+        <span asp-validation-for="PoNumber" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="PoDate" class="control-label"></label>
+        <input asp-for="PoDate" class="form-control" />
+        <span asp-validation-for="PoDate" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="EmployeeId" class="control-label"></label>
+        <select asp-for="EmployeeId" class="form-control" asp-items="ViewBag.EmployeeId"></select>
+    </div>
+
+    <div class="form-group">
+
+    </div>
+
+                                </div>
+                            </div>
+                        </div>
+    <div style="width: 55%; float: right">
+        <div class="row">
+            <div class="col-12 ml-5">
+                <table id='CodesTable' class="table table-borderless table-sm mb-0 pb-0">
+                    <thead>
+                        <tr>
+                            <th>Customer</th>
+
+                            <th>Address</th>
+
+                            <th>Price</th>
+                            <th style="width:60px;">
+                                <button id='btnAddDetailRow' type="button" class="btn btn-sm btn-secondary visible" onclick="AddItem(this)">
+                                    Add
+                                </button>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @for (int i = 0; i < Model.PoDetails.Count; i++)
+                        {
+                            <tr>
+                                <td>
+
+
+                                    <select asp-for="@Model.PoDetails[i].CustomerId" class="form-control" asp-items="ViewBag.CustomerList"></select>
+
+                                </td>
+                                <td>
+                                    <input asp-for="@Model.PoDetails[i].Address" class="form-control" />
+                                    <span asp-validation-for="@Model.PoDetails[i].Address" class="text-danger"></span>
+                                </td>
+                                <td>
+                                    <input asp-for="@Model.PoDetails[i].price" class="form-control" />
+                                    <span asp-validation-for="@Model.PoDetails[i].price" class="text-danger"></span>
+                                </td>
+                                <td style="width:60px;">
+                                    <button id='btnremov-@i' type="button" class="btn btn-sm btn-danger visible"> Delete</button>
+
+                                </td>
+
+                            </tr>
+
+                        }
+                    </tbody>
+                </table>
+            </div>
+
+
+            <div class="form-group">
+                <input type="submit" style="float:right" value="Create" class="btn btn-primary" />
+            </div>
+        </div>
+    </div>
+                    </div>
+                </div>
+            </div>
+
+
+        </form>
+    </div>
+*@
+
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+@*https://www.youtube.com/watch?v=EpbpmDrn5lw*@
+
+@section Scripts{
+    <script>
+        //   function AddItem(btn) {
+        //       /*var table;*/
+        //       var table = document.getElementById('CodesTable');
+        //       var rows = table.getElementsByTagName('tr');
+        //       var rowOuterHtml = rows[rows.length - 1].outerHTML;
+        //       var lastrowIdx = document.getElementById('hdnLastIndex').value;
+
+        ///*      // var lastrowIdx = rows.length - 2;*/
+
+        //       var nextrowIdx = eval(lastrowIdx) + 1;
+
+        //       document.getElementById('hdnLastIndex').value = nextrowIdx;
+
+        //       rowOuterHtml = rowOuterHtml.replaceAll('_' + lastrowIdx + '_', '_' + nextrowIdx + '_');
+        //       rowOuterHtml = rowOuterHtml.replaceAll('[' + lastrowIdx + ']', '[' + nextrowIdx + ']');
+        //       rowOuterHtml = rowOuterHtml.replaceAll('-' + lastrowIdx, '-' + nextrowIdx);
+
+        //       var newRow = table.insertRow();
+        //       newRow.innerHtML = rowOuterHtml;
+
+        //       //var x = document.getElementsByTagName("INPUT");
+        //       //for (var cnt = 0; cnt < x.length; cnt++) {
+        //       //    if (x[cnt].type == "text" && x[cnt].id.indexOf('_' + nextrowIdx + '_') > 0)
+        //       //        x[cnt].value = '';
+        //       //    else if (x[cnt].type == "number" && x[cnt].id.indexOf('_' + nextrowIdx + '_') > 0)
+        //       //        x[cnt].value = 0;
+        //       //}
+
+
+        //       var btnAddID = btn.id;
+        //       var btnDeleteid = btnAddID.replaceAll('addbtn', 'btnremove');
+
+        //       var delbtn = document.getElementById(btnDeleteid);
+        //       delbtn.classList.add("visible");
+        //       delbtn.classList.remove("invisible");
+
+        //       var addbtn = document.getElementById(btnAddID);
+        //       addbtn.classList.add("invisible");
+        //       addbtn.classList.remove("visible");
+
+
+        //   }
+
+        function AddItem(btn) {
+
+            var table = document.getElementById('ExpTable');
+            var rows = table.getElementsByTagName('tr');
+
+            var rowOuterHtml = rows[rows.length - 1].outerHTML;
+
+            var lastrowIdx = document.getElementById('hdnLastIndex').value;
+
+            var nextrowIdx = eval(lastrowIdx) + 1;
+
+            document.getElementById('hdnLastIndex').value = nextrowIdx;
+
+            rowOuterHtml = rowOuterHtml.replaceAll('_' + lastrowIdx + '_', '_' + nextrowIdx + '_');
+            rowOuterHtml = rowOuterHtml.replaceAll('[' + lastrowIdx + ']', '[' + nextrowIdx + ']');
+            rowOuterHtml = rowOuterHtml.replaceAll('-' + lastrowIdx, '-' + nextrowIdx);
+
+
+            var newRow = table.insertRow();
+            newRow.innerHTML = rowOuterHtml;
+
+
+
+            //var btnAddID = btn.id;
+            //var btnDeleteid = btnAddID.replaceAll('btnadd', 'btnremove');
+
+            //var delbtn = document.getElementById(btnDeleteid);
+            //delbtn.classList.add("visible");
+            //delbtn.classList.remove("invisible");
+
+
+            //var addbtn = document.getElementById(btnAddID);
+            //addbtn.classList.remove("visible");
+            //addbtn.classList.add("invisible");
+
+              var btnAddID = btn.id;
+               var btnDeleteid = btnAddID.replaceAll('addbtn', 'btnremove');
+
+               var delbtn = document.getElementById(btnDeleteid);
+               delbtn.classList.add("visible");
+               delbtn.classList.remove("invisible");
+
+               var addbtn = document.getElementById(btnAddID);
+               addbtn.classList.add("invisible");
+               addbtn.classList.remove("visible");
+
+        }
+
+        function DeleteItem(btn) {
+            $(btn).closest('tr').remove();
+        }
+
+    </script>
+}
+
+@*https://www.youtube.com/watch?v=HKqGQ0rhe-c&list=PLKveM2BE9JqEQK63DxMUpFf1NyRfrYWBY&index=2
+https://codesbyaniz.blogspot.com/2021/08/master-detail-crud-in-aspnet-core-5-mvc.html*@

@@ -1,0 +1,8 @@
+Hello sir, Thank you for give to next step competition, really i am so happy when i got your mail , last two day lot of hard work after finished that task that have you assigned .
+ i am useing (Visual Studio 2019 ) and MSSQL Server 2016
+My Project Name ( WebApp2)
+There are two menu in project
+1. Employee Create
+2. Employee Report
+
+i have attached database backup  file and project folder and some screen short

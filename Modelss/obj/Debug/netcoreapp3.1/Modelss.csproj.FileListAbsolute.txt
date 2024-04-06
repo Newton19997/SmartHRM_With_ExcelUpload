@@ -1,0 +1,39 @@
+D:\Users\newton\Desktop\Exta\Modelss\bin\Debug\netcoreapp3.1\Modelss.deps.json
+D:\Users\newton\Desktop\Exta\Modelss\bin\Debug\netcoreapp3.1\Modelss.dll
+D:\Users\newton\Desktop\Exta\Modelss\bin\Debug\netcoreapp3.1\Modelss.pdb
+D:\Users\newton\Desktop\Exta\Modelss\obj\Debug\netcoreapp3.1\Modelss.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\newton\Desktop\Exta\Modelss\obj\Debug\netcoreapp3.1\Modelss.AssemblyInfoInputs.cache
+D:\Users\newton\Desktop\Exta\Modelss\obj\Debug\netcoreapp3.1\Modelss.AssemblyInfo.cs
+D:\Users\newton\Desktop\Exta\Modelss\obj\Debug\netcoreapp3.1\Modelss.csproj.CoreCompileInputs.cache
+D:\Users\newton\Desktop\Exta\Modelss\obj\Debug\netcoreapp3.1\Modelss.dll
+D:\Users\newton\Desktop\Exta\Modelss\obj\Debug\netcoreapp3.1\Modelss.pdb
+D:\Users\newton\Desktop\Exta\Modelss\obj\Debug\netcoreapp3.1\Modelss.csproj.AssemblyReference.cache
+D:\Users\newton\Desktop\Exta\Newton_Royex\Modelss\bin\Debug\netcoreapp3.1\Modelss.deps.json
+D:\Users\newton\Desktop\Exta\Newton_Royex\Modelss\bin\Debug\netcoreapp3.1\Modelss.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\Modelss\bin\Debug\netcoreapp3.1\Modelss.pdb
+D:\Users\newton\Desktop\Exta\Newton_Royex\Modelss\obj\Debug\netcoreapp3.1\Modelss.csproj.AssemblyReference.cache
+D:\Users\newton\Desktop\Exta\Newton_Royex\Modelss\obj\Debug\netcoreapp3.1\Modelss.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\newton\Desktop\Exta\Newton_Royex\Modelss\obj\Debug\netcoreapp3.1\Modelss.AssemblyInfoInputs.cache
+D:\Users\newton\Desktop\Exta\Newton_Royex\Modelss\obj\Debug\netcoreapp3.1\Modelss.AssemblyInfo.cs
+D:\Users\newton\Desktop\Exta\Newton_Royex\Modelss\obj\Debug\netcoreapp3.1\Modelss.csproj.CoreCompileInputs.cache
+D:\Users\newton\Desktop\Exta\Newton_Royex\Modelss\obj\Debug\netcoreapp3.1\Modelss.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\Modelss\obj\Debug\netcoreapp3.1\Modelss.pdb
+D:\Newton\Newton_Royex\Modelss\bin\Debug\netcoreapp3.1\Modelss.deps.json
+D:\Newton\Newton_Royex\Modelss\bin\Debug\netcoreapp3.1\Modelss.dll
+D:\Newton\Newton_Royex\Modelss\bin\Debug\netcoreapp3.1\Modelss.pdb
+D:\Newton\Newton_Royex\Modelss\obj\Debug\netcoreapp3.1\Modelss.csproj.AssemblyReference.cache
+D:\Newton\Newton_Royex\Modelss\obj\Debug\netcoreapp3.1\Modelss.GeneratedMSBuildEditorConfig.editorconfig
+D:\Newton\Newton_Royex\Modelss\obj\Debug\netcoreapp3.1\Modelss.AssemblyInfoInputs.cache
+D:\Newton\Newton_Royex\Modelss\obj\Debug\netcoreapp3.1\Modelss.AssemblyInfo.cs
+D:\Newton\Newton_Royex\Modelss\obj\Debug\netcoreapp3.1\Modelss.csproj.CoreCompileInputs.cache
+D:\Newton\Newton_Royex\Modelss\obj\Debug\netcoreapp3.1\Modelss.dll
+D:\Newton\Newton_Royex\Modelss\obj\Debug\netcoreapp3.1\Modelss.pdb
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\Modelss\bin\Debug\netcoreapp3.1\Modelss.deps.json
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\Modelss\bin\Debug\netcoreapp3.1\Modelss.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\Modelss\bin\Debug\netcoreapp3.1\Modelss.pdb
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\Modelss\obj\Debug\netcoreapp3.1\Modelss.GeneratedMSBuildEditorConfig.editorconfig
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\Modelss\obj\Debug\netcoreapp3.1\Modelss.AssemblyInfoInputs.cache
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\Modelss\obj\Debug\netcoreapp3.1\Modelss.AssemblyInfo.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\Modelss\obj\Debug\netcoreapp3.1\Modelss.csproj.CoreCompileInputs.cache
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\Modelss\obj\Debug\netcoreapp3.1\Modelss.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\Modelss\obj\Debug\netcoreapp3.1\Modelss.pdb

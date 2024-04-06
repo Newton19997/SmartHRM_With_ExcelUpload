@@ -1,0 +1,68 @@
+D:\Users\newton\Desktop\Exta\BLL_Manager\bin\Debug\netcoreapp3.1\BLL_Manager.deps.json
+D:\Users\newton\Desktop\Exta\BLL_Manager\bin\Debug\netcoreapp3.1\BLL_Manager.dll
+D:\Users\newton\Desktop\Exta\BLL_Manager\bin\Debug\netcoreapp3.1\BLL_Manager.pdb
+D:\Users\newton\Desktop\Exta\BLL_Manager\bin\Debug\netcoreapp3.1\DatabaseContext.dll
+D:\Users\newton\Desktop\Exta\BLL_Manager\bin\Debug\netcoreapp3.1\Modelss.dll
+D:\Users\newton\Desktop\Exta\BLL_Manager\bin\Debug\netcoreapp3.1\Repositoris.dll
+D:\Users\newton\Desktop\Exta\BLL_Manager\bin\Debug\netcoreapp3.1\Modelss.pdb
+D:\Users\newton\Desktop\Exta\BLL_Manager\bin\Debug\netcoreapp3.1\Repositoris.pdb
+D:\Users\newton\Desktop\Exta\BLL_Manager\bin\Debug\netcoreapp3.1\DatabaseContext.pdb
+D:\Users\newton\Desktop\Exta\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.csproj.AssemblyReference.cache
+D:\Users\newton\Desktop\Exta\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\newton\Desktop\Exta\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.AssemblyInfoInputs.cache
+D:\Users\newton\Desktop\Exta\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.AssemblyInfo.cs
+D:\Users\newton\Desktop\Exta\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.csproj.CoreCompileInputs.cache
+D:\Users\newton\Desktop\Exta\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.csproj.CopyComplete
+D:\Users\newton\Desktop\Exta\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.dll
+D:\Users\newton\Desktop\Exta\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.pdb
+D:\Users\newton\Desktop\Exta\Newton_Royex\BLL_Manager\bin\Debug\netcoreapp3.1\BLL_Manager.deps.json
+D:\Users\newton\Desktop\Exta\Newton_Royex\BLL_Manager\bin\Debug\netcoreapp3.1\BLL_Manager.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\BLL_Manager\bin\Debug\netcoreapp3.1\BLL_Manager.pdb
+D:\Users\newton\Desktop\Exta\Newton_Royex\BLL_Manager\bin\Debug\netcoreapp3.1\DatabaseContext.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\BLL_Manager\bin\Debug\netcoreapp3.1\Modelss.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\BLL_Manager\bin\Debug\netcoreapp3.1\Repositoris.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\BLL_Manager\bin\Debug\netcoreapp3.1\Modelss.pdb
+D:\Users\newton\Desktop\Exta\Newton_Royex\BLL_Manager\bin\Debug\netcoreapp3.1\Repositoris.pdb
+D:\Users\newton\Desktop\Exta\Newton_Royex\BLL_Manager\bin\Debug\netcoreapp3.1\DatabaseContext.pdb
+D:\Users\newton\Desktop\Exta\Newton_Royex\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.csproj.AssemblyReference.cache
+D:\Users\newton\Desktop\Exta\Newton_Royex\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\newton\Desktop\Exta\Newton_Royex\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.AssemblyInfoInputs.cache
+D:\Users\newton\Desktop\Exta\Newton_Royex\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.AssemblyInfo.cs
+D:\Users\newton\Desktop\Exta\Newton_Royex\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.csproj.CoreCompileInputs.cache
+D:\Users\newton\Desktop\Exta\Newton_Royex\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.csproj.CopyComplete
+D:\Users\newton\Desktop\Exta\Newton_Royex\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.dll
+D:\Users\newton\Desktop\Exta\Newton_Royex\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.pdb
+D:\Newton\Newton_Royex\BLL_Manager\bin\Debug\netcoreapp3.1\BLL_Manager.deps.json
+D:\Newton\Newton_Royex\BLL_Manager\bin\Debug\netcoreapp3.1\BLL_Manager.dll
+D:\Newton\Newton_Royex\BLL_Manager\bin\Debug\netcoreapp3.1\BLL_Manager.pdb
+D:\Newton\Newton_Royex\BLL_Manager\bin\Debug\netcoreapp3.1\DatabaseContext.dll
+D:\Newton\Newton_Royex\BLL_Manager\bin\Debug\netcoreapp3.1\Modelss.dll
+D:\Newton\Newton_Royex\BLL_Manager\bin\Debug\netcoreapp3.1\Repositoris.dll
+D:\Newton\Newton_Royex\BLL_Manager\bin\Debug\netcoreapp3.1\Modelss.pdb
+D:\Newton\Newton_Royex\BLL_Manager\bin\Debug\netcoreapp3.1\Repositoris.pdb
+D:\Newton\Newton_Royex\BLL_Manager\bin\Debug\netcoreapp3.1\DatabaseContext.pdb
+D:\Newton\Newton_Royex\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.csproj.AssemblyReference.cache
+D:\Newton\Newton_Royex\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Newton\Newton_Royex\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.AssemblyInfoInputs.cache
+D:\Newton\Newton_Royex\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.AssemblyInfo.cs
+D:\Newton\Newton_Royex\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.csproj.CoreCompileInputs.cache
+D:\Newton\Newton_Royex\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.csproj.CopyComplete
+D:\Newton\Newton_Royex\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.dll
+D:\Newton\Newton_Royex\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.pdb
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\BLL_Manager\bin\Debug\netcoreapp3.1\BLL_Manager.deps.json
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\BLL_Manager\bin\Debug\netcoreapp3.1\BLL_Manager.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\BLL_Manager\bin\Debug\netcoreapp3.1\BLL_Manager.pdb
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\BLL_Manager\bin\Debug\netcoreapp3.1\DatabaseContext.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\BLL_Manager\bin\Debug\netcoreapp3.1\Modelss.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\BLL_Manager\bin\Debug\netcoreapp3.1\Repositoris.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\BLL_Manager\bin\Debug\netcoreapp3.1\Modelss.pdb
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\BLL_Manager\bin\Debug\netcoreapp3.1\Repositoris.pdb
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\BLL_Manager\bin\Debug\netcoreapp3.1\DatabaseContext.pdb
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.csproj.AssemblyReference.cache
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.AssemblyInfoInputs.cache
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.AssemblyInfo.cs
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.csproj.CoreCompileInputs.cache
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.csproj.CopyComplete
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.dll
+D:\Newton\20240101 NEW Year\FinalRoyex\Newton_Royex\BLL_Manager\obj\Debug\netcoreapp3.1\BLL_Manager.pdb

@@ -1,0 +1,85 @@
+﻿
+@{
+    ViewData["Title"] = "JQIndex";
+}
+
+<h1>JQIndex</h1>
+
+
+@*<div class="container">
+        <a class="btn btn-sm btn-primary m-2 " asp-action="ImportExcelFile" asp-controller="Excel">Upload File</a>
+        <p class="text-center text-success font-weight-bold">@TempData["message"]</p>
+        <div class="row">
+            <div class="col-8 offset-2">
+                <table class="table table-bordered">
+                    <thead>
+                        <tr class="text-center">
+                            <th>Cust_ID</th>
+                            <th>First Name</th>
+                            <th>Last Name</th>
+                            <th>Gender</th>
+                            <th>Country</th>
+                            <th>Age</th>
+                        </tr>
+                    </thead>
+                    @foreach (var d in Model)
+                    {
+                        <tr class="text-center">
+                            <td>@d.CustomerCode</td>
+                            <td>@d.FirstName</td>
+                            <td>@d.LastName</td>
+                            <td>@d.Gender</td>
+                            <td>@d.Country</td>
+                            <td>@d.Age</td>
+
+                        </tr>
+                    }
+                </table>
+            </div>
+        </div>
+    </div>*@
+
+<div class="container">   
+    <div class="row">
+        <div>
+            <a class="btn btn-sm btn-primary m-2 " asp-action="ImportExcelFile" asp-controller="Excel">Import Excel</a> |
+            <a class="btn btn-sm btn-warning" asp-action="ExportExcel" asp-controller="Excel">Export Excel</a>
+        </div>
+    </div>
+
+    <h3 class="text-center text-success font-weight-bold">@TempData["message"]</h3>
+    <div class="row">
+        <div class="col-8 offset-2">
+            <table class="table table-bordered" id="dataTableData">
+                <thead>
+                    <tr class="text-center">
+                        <th>Id</th>
+                        <th>Cust_ID</th>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                        <th>Gender</th>
+                        <th>Country</th>
+                        <th>Age</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+               
+            </table>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+
+ 
+    <script src="~/js/JQdatatable_file.js"></script>
+
+}
+
+
+
+@*https://www.youtube.com/watch?v=wwyAOjOLQh0&t=2717s*@
+
+@*//forData table*@
+@*https://www.youtube.com/watch?v=PnrnyhdXJYs&t=12s*@
+

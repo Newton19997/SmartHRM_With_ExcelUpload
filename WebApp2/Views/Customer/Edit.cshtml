@@ -1,0 +1,74 @@
+﻿@model Modelss.Customer
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Customer</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="CustomerName" class="control-label"></label>
+                <input asp-for="CustomerName" class="form-control" />
+                <span asp-validation-for="CustomerName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Address" class="control-label"></label>
+                <input asp-for="Address" class="form-control" />
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ContactNo" class="control-label"></label>
+                <input asp-for="ContactNo" class="form-control" />
+                <span asp-validation-for="ContactNo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CoverImageUrl" class="control-label"></label>
+                <div class="custom-file">
+                    <input class="form-control" id="texFile" type="file" name="pic" />
+                    @*<input class="form-control" id="texFile" type="file" name="pic" accept="image/*" />*@
+                    @*<input asp-for="CoverImageUrl" class="custom-file-input" id="customFile" />
+        <label class="custom-file-label" for="customFile">Choose file</label>*@
+
+                </div>
+                <div class="form-group">
+                    <img id="imgViewer"  width="40" height="40" style="border:1px solid #000000" />
+                </div>
+                <img src="~/CustomerImage/@Model.CoverImageUrl" />
+
+                <span asp-validation-for="CoverImageUrl" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts{
+    <script>
+
+        $(document).ready(function () {
+            
+        });
+
+        $("#texFile").change(function (event) {
+            alert('newton');
+            var files = event.target.files;
+            alert(files);
+            $("#imgViewer").attr("src",window.URL.createObjectURL(files[0]));
+
+        });
+
+    </script>
+    }

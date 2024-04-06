@@ -1,0 +1,73 @@
+﻿@model List<Modelss.ViewModels.Sample>;
+@{
+    ViewData["Title"] = "Index";
+}
+
+<style>
+    .card:hover {
+        box-shadow: -1px 9px 40px -12px #808080;
+    }
+</style>
+<h1>Index</h1>
+
+<div class="container">
+    <div class="row">
+        <div style="width: 100%;">
+            <div style="width: 100%;">
+                <div style="width: 25%; float: left">
+                    newton
+                </div>
+                <div style="width: 75%; float: right">
+                    <div class="row">
+                        @foreach (var item in Model)
+                        {
+                            <input type="hidden" asp-for="@item.Id" />
+                            <div class="card" style="width:20em; margin:10px;">
+                                <img src="~/SampleImage/@item.SampleImg" class="card-img-top" />
+                                <div class="card-body">
+                                    <div class="card-title">
+                                        <h2>SampleName :@item.SampleName</h2>
+                                    </div>
+                                    <div class="card-text">
+                                        <p>Length :@item.Length</p>
+                                    </div>
+                                    <div class="card-text">
+                                        <p>Width :@item.Width</p>
+                                    </div>
+                                    <div class="card-text">
+                                        <p>price :@item.price</p>
+                                    </div>
+                                    @*<a href="#" class="btn btn-primary">Read More....</a>*@
+                                <a class="btn btn-sm btn-primary" asp-action="OrderCreate" asp-controller="Sample">Order Create</a>
+                                </div>
+                            </div>
+                        }
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts{
+<script>
+    $('.card').hover(
+        function () {
+            $(this).animate({
+                marbinTop: "-=1%",
+                marginBottom :"+=1%"
+            },200)
+        },
+        function () {
+            $(this).animate({
+                marbinTop: "+=1%",
+                marginBottom: "-=1%"
+            })
+        }
+
+    )
+</script>
+
+  
+
+}
